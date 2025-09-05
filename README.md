@@ -20,6 +20,14 @@ This project is a **self-learning initiative** by me, focused on analyzing **Hos
 
 ---
 
+## 📊 Project View
+
+![Pizza Sales Dashboard](Consolidated.png)
+![Pizza Sales Dashboard](Monthly.png)
+![Pizza Sales Dashboard](Patient.png)
+
+---
+
 ## 📂 Project Structure
 ```
 ├── data/              # Raw and cleaned datasets  
@@ -43,7 +51,7 @@ This project is a **self-learning initiative** by me, focused on analyzing **Hos
 ---
 
 ## 📈 Project Dashboard
-👉 [Click here to view my dashboard](YOUR_LINK_HERE)  
+👉 [Click here to view my dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFmMDA3ODUtZjg2Yi00OGI2LTg4MzYtMmVlMzcxMjBlNWIyIiwidCI6IjFlYjk4MmNlLThkZTgtNDllMi1iMDA4LTNiYjJmYjg1NzU1YyJ9)  
 
 ---
 
